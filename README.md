@@ -13,10 +13,11 @@ Building tools and methodologies to advance hardware security and threat intelli
 ---
 
 ## Recognition
+- **BlackHat Sector Arsenal 2026** - Cloudrift - Cloud Security Exposure & Trust Mapping Engine
 - **DEFCON 34 - AppSec Village** - Farsight OSINT Framework presenter
-- **BlackHat Arsenal 2025** - Farsight OSINT Framework presenter
+- **BlackHat Sector Arsenal 2025** - Farsight OSINT Framework presenter
 - **Security Engineer** at Festo - Securing industrial automation systems
-- **Conference Speaker** - B|Sides CDMX, Blackhat, C0C0N, Seasides Conference
+- **Conference Speaker** - DEFCON, B|Sides CDMX, Blackhat, C0C0N, Seasides Conference
 - **Community Contributor** - Active in hardware security and OSINT communities
 
 
